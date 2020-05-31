@@ -1,0 +1,217 @@
+ProfitLimit:  0.005 LossLimit:  -0.02
+Total Assets:  100413.64382490034
+ProfitLimit:  0.005 LossLimit:  -0.03
+Total Assets:  100632.84794811545
+ProfitLimit:  0.005 LossLimit:  -0.04
+Total Assets:  100751.84992417513
+ProfitLimit:  0.005 LossLimit:  -0.05
+Total Assets:  100607.28318986556
+ProfitLimit:  0.005 LossLimit:  -0.06
+Total Assets:  100543.913968706
+ProfitLimit:  0.005 LossLimit:  -0.07
+Total Assets:  100545.8369059198
+ProfitLimit:  0.005 LossLimit:  -0.08
+Total Assets:  100545.8369059198
+ProfitLimit:  0.005 LossLimit:  -0.09000000000000001
+Total Assets:  100545.8369059198
+ProfitLimit:  0.005 LossLimit:  -0.1
+Total Assets:  100545.8369059198
+ProfitLimit:  0.01 LossLimit:  -0.02
+Total Assets:  100527.3771831693
+ProfitLimit:  0.01 LossLimit:  -0.03
+Total Assets:  100462.53792214727
+ProfitLimit:  0.01 LossLimit:  -0.04
+Total Assets:  100599.51186524572
+ProfitLimit:  0.01 LossLimit:  -0.05
+Total Assets:  100457.7428206477
+ProfitLimit:  0.01 LossLimit:  -0.06
+Total Assets:  100387.62711999756
+ProfitLimit:  0.01 LossLimit:  -0.07
+Total Assets:  100398.86498936937
+ProfitLimit:  0.01 LossLimit:  -0.08
+Total Assets:  100398.86498936937
+ProfitLimit:  0.01 LossLimit:  -0.09000000000000001
+Total Assets:  100398.86498936937
+ProfitLimit:  0.01 LossLimit:  -0.1
+Total Assets:  100398.86498936937
+ProfitLimit:  0.015 LossLimit:  -0.02
+Total Assets:  100502.84081099727
+ProfitLimit:  0.015 LossLimit:  -0.03
+Total Assets:  100386.75722561788
+ProfitLimit:  0.015 LossLimit:  -0.04
+Total Assets:  100525.51079282463
+ProfitLimit:  0.015 LossLimit:  -0.05
+Total Assets:  100468.59005063845
+ProfitLimit:  0.015 LossLimit:  -0.06
+Total Assets:  100412.08723219518
+ProfitLimit:  0.015 LossLimit:  -0.07
+Total Assets:  100423.882787022
+ProfitLimit:  0.015 LossLimit:  -0.08
+Total Assets:  100423.882787022
+ProfitLimit:  0.015 LossLimit:  -0.09000000000000001
+Total Assets:  100423.882787022
+ProfitLimit:  0.015 LossLimit:  -0.1
+Total Assets:  100423.882787022
+ProfitLimit:  0.02 LossLimit:  -0.02
+Total Assets:  100889.32008381853
+ProfitLimit:  0.02 LossLimit:  -0.03
+Total Assets:  100663.85782114677
+ProfitLimit:  0.02 LossLimit:  -0.04
+Total Assets:  100835.65526376851
+ProfitLimit:  0.02 LossLimit:  -0.05
+Total Assets:  100765.62598449626
+ProfitLimit:  0.02 LossLimit:  -0.06
+Total Assets:  100695.4267376419
+ProfitLimit:  0.02 LossLimit:  -0.07
+Total Assets:  100692.94092603782
+ProfitLimit:  0.02 LossLimit:  -0.08
+Total Assets:  100692.94092603782
+ProfitLimit:  0.02 LossLimit:  -0.09000000000000001
+Total Assets:  100692.94092603782
+ProfitLimit:  0.02 LossLimit:  -0.1
+Total Assets:  100692.94092603782
+ProfitLimit:  0.025 LossLimit:  -0.02
+Total Assets:  100598.97574998547
+ProfitLimit:  0.025 LossLimit:  -0.03
+Total Assets:  100440.24268778006
+ProfitLimit:  0.025 LossLimit:  -0.04
+Total Assets:  100564.5957069812
+ProfitLimit:  0.025 LossLimit:  -0.05
+Total Assets:  100513.6917725912
+ProfitLimit:  0.025 LossLimit:  -0.06
+Total Assets:  100463.0287725912
+ProfitLimit:  0.025 LossLimit:  -0.07
+Total Assets:  100469.61396942119
+ProfitLimit:  0.025 LossLimit:  -0.08
+Total Assets:  100469.61396942119
+ProfitLimit:  0.025 LossLimit:  -0.09000000000000001
+Total Assets:  100469.61396942119
+ProfitLimit:  0.025 LossLimit:  -0.1
+Total Assets:  100469.61396942119
+ProfitLimit:  0.030000000000000002 LossLimit:  -0.02
+Total Assets:  100478.46802847432
+ProfitLimit:  0.030000000000000002 LossLimit:  -0.03
+Total Assets:  100386.72228388675
+ProfitLimit:  0.030000000000000002 LossLimit:  -0.04
+Total Assets:  100510.54906787178
+ProfitLimit:  0.030000000000000002 LossLimit:  -0.05
+Total Assets:  100459.99906787177
+ProfitLimit:  0.030000000000000002 LossLimit:  -0.06
+Total Assets:  100409.7360678718
+ProfitLimit:  0.030000000000000002 LossLimit:  -0.07
+Total Assets:  100417.16982383537
+ProfitLimit:  0.030000000000000002 LossLimit:  -0.08
+Total Assets:  100417.16982383537
+ProfitLimit:  0.030000000000000002 LossLimit:  -0.09000000000000001
+Total Assets:  100417.16982383537
+ProfitLimit:  0.030000000000000002 LossLimit:  -0.1
+Total Assets:  100417.16982383537
+ProfitLimit:  0.034999999999999996 LossLimit:  -0.02
+Total Assets:  100397.00373198034
+ProfitLimit:  0.034999999999999996 LossLimit:  -0.03
+Total Assets:  100313.3218823908
+ProfitLimit:  0.034999999999999996 LossLimit:  -0.04
+Total Assets:  100424.16700471334
+ProfitLimit:  0.034999999999999996 LossLimit:  -0.05
+Total Assets:  100378.77607032337
+ProfitLimit:  0.034999999999999996 LossLimit:  -0.06
+Total Assets:  100333.51607032333
+ProfitLimit:  0.034999999999999996 LossLimit:  -0.07
+Total Assets:  100345.0121359333
+ProfitLimit:  0.034999999999999996 LossLimit:  -0.08
+Total Assets:  100345.0121359333
+ProfitLimit:  0.034999999999999996 LossLimit:  -0.09000000000000001
+Total Assets:  100345.0121359333
+ProfitLimit:  0.034999999999999996 LossLimit:  -0.1
+Total Assets:  100345.0121359333
+ProfitLimit:  0.04 LossLimit:  -0.02
+Total Assets:  100419.59573198036
+ProfitLimit:  0.04 LossLimit:  -0.03
+Total Assets:  100333.31291725862
+ProfitLimit:  0.04 LossLimit:  -0.04
+Total Assets:  100444.50700471333
+ProfitLimit:  0.04 LossLimit:  -0.05
+Total Assets:  100399.06607032334
+ProfitLimit:  0.04 LossLimit:  -0.06
+Total Assets:  100353.72607032333
+ProfitLimit:  0.04 LossLimit:  -0.07
+Total Assets:  100365.2671359333
+ProfitLimit:  0.04 LossLimit:  -0.08
+Total Assets:  100365.2671359333
+ProfitLimit:  0.04 LossLimit:  -0.09000000000000001
+Total Assets:  100365.2671359333
+ProfitLimit:  0.04 LossLimit:  -0.1
+Total Assets:  100365.2671359333
+ProfitLimit:  0.045 LossLimit:  -0.02
+Total Assets:  100432.43073198035
+ProfitLimit:  0.045 LossLimit:  -0.03
+Total Assets:  100344.65791725864
+ProfitLimit:  0.045 LossLimit:  -0.04
+Total Assets:  100455.74200471332
+ProfitLimit:  0.045 LossLimit:  -0.05
+Total Assets:  100410.41107032336
+ProfitLimit:  0.045 LossLimit:  -0.06
+Total Assets:  100365.10107032333
+ProfitLimit:  0.045 LossLimit:  -0.07
+Total Assets:  100376.61213593332
+ProfitLimit:  0.045 LossLimit:  -0.08
+Total Assets:  100376.61213593332
+ProfitLimit:  0.045 LossLimit:  -0.09000000000000001
+Total Assets:  100376.61213593332
+ProfitLimit:  0.045 LossLimit:  -0.1
+Total Assets:  100376.61213593332
+ProfitLimit:  0.049999999999999996 LossLimit:  -0.02
+Total Assets:  100410.13573198036
+ProfitLimit:  0.049999999999999996 LossLimit:  -0.03
+Total Assets:  100324.47395212647
+ProfitLimit:  0.049999999999999996 LossLimit:  -0.04
+Total Assets:  100436.11700471332
+ProfitLimit:  0.049999999999999996 LossLimit:  -0.05
+Total Assets:  100390.43700471333
+ProfitLimit:  0.049999999999999996 LossLimit:  -0.06
+Total Assets:  100345.21700471333
+ProfitLimit:  0.049999999999999996 LossLimit:  -0.07
+Total Assets:  100356.45213593333
+ProfitLimit:  0.049999999999999996 LossLimit:  -0.08
+Total Assets:  100356.45213593333
+ProfitLimit:  0.049999999999999996 LossLimit:  -0.09000000000000001
+Total Assets:  100356.45213593333
+ProfitLimit:  0.049999999999999996 LossLimit:  -0.1
+Total Assets:  100356.45213593333
+ProfitLimit:  0.055 LossLimit:  -0.02
+Total Assets:  100410.13573198036
+ProfitLimit:  0.055 LossLimit:  -0.03
+Total Assets:  100324.47395212647
+ProfitLimit:  0.055 LossLimit:  -0.04
+Total Assets:  100436.11700471332
+ProfitLimit:  0.055 LossLimit:  -0.05
+Total Assets:  100390.43700471333
+ProfitLimit:  0.055 LossLimit:  -0.06
+Total Assets:  100345.21700471333
+ProfitLimit:  0.055 LossLimit:  -0.07
+Total Assets:  100356.45213593333
+ProfitLimit:  0.055 LossLimit:  -0.08
+Total Assets:  100356.45213593333
+ProfitLimit:  0.055 LossLimit:  -0.09000000000000001
+Total Assets:  100356.45213593333
+ProfitLimit:  0.055 LossLimit:  -0.1
+Total Assets:  100356.45213593333
+ProfitLimit:  0.06 LossLimit:  -0.02
+Total Assets:  100410.13573198036
+ProfitLimit:  0.06 LossLimit:  -0.03
+Total Assets:  100324.47395212647
+ProfitLimit:  0.06 LossLimit:  -0.04
+Total Assets:  100436.11700471332
+ProfitLimit:  0.06 LossLimit:  -0.05
+Total Assets:  100390.43700471333
+ProfitLimit:  0.06 LossLimit:  -0.06
+Total Assets:  100345.21700471333
+ProfitLimit:  0.06 LossLimit:  -0.07
+Total Assets:  100356.45213593333
+ProfitLimit:  0.06 LossLimit:  -0.08
+Total Assets:  100356.45213593333
+ProfitLimit:  0.06 LossLimit:  -0.09000000000000001
+Total Assets:  100356.45213593333
+ProfitLimit:  0.06 LossLimit:  -0.1
+Total Assets:  100356.45213593333
+
